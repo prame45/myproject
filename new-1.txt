@@ -1,2 +1,4 @@
 เพิ่มไฟล์ new-1.txt ใน directory myproject2
 แล้ว save
+
+แก้แล้วนะ
